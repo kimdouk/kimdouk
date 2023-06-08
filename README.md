@@ -1,7 +1,9 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdouk%2F&count_bg=%2300C290&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi there 👋
-<!-- #### I'm Douk Kim, majoring in Software Engineering 💻
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdouk&show_icons=true&theme=radical) -->
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kduk)](https://solved.ac/kduk/) -->
+#### I'm Douk Kim, majoring in Software Engineering 💻
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdouk&show_icons=true&theme=transparent)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kduk)](https://solved.ac/kduk/)
 <!--
 **kimdouk/kimdouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
